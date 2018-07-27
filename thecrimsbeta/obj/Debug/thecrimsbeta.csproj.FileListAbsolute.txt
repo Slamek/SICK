@@ -1,0 +1,12 @@
+C:\Users\Samo\Desktop\TCM\trunk\thecrimsbeta\bin\Debug\thecrimsbeta.exe.config
+C:\Users\Samo\Desktop\TCM\trunk\thecrimsbeta\bin\Debug\thecrimsbeta.exe
+C:\Users\Samo\Desktop\TCM\trunk\thecrimsbeta\bin\Debug\thecrimsbeta.pdb
+C:\Users\Samo\Desktop\TCM\trunk\thecrimsbeta\bin\Debug\WebDriver.dll
+C:\Users\Samo\Desktop\TCM\trunk\thecrimsbeta\bin\Debug\WebDriver.xml
+C:\Users\Samo\Desktop\TCM\trunk\thecrimsbeta\obj\Debug\thecrimsbeta.csprojResolveAssemblyReference.cache
+C:\Users\Samo\Desktop\TCM\trunk\thecrimsbeta\obj\Debug\thecrimsbeta.Form1.resources
+C:\Users\Samo\Desktop\TCM\trunk\thecrimsbeta\obj\Debug\thecrimsbeta.Properties.Resources.resources
+C:\Users\Samo\Desktop\TCM\trunk\thecrimsbeta\obj\Debug\thecrimsbeta.csproj.GenerateResource.Cache
+C:\Users\Samo\Desktop\TCM\trunk\thecrimsbeta\obj\Debug\thecrimsbeta.csproj.CoreCompileInputs.cache
+C:\Users\Samo\Desktop\TCM\trunk\thecrimsbeta\obj\Debug\thecrimsbeta.exe
+C:\Users\Samo\Desktop\TCM\trunk\thecrimsbeta\obj\Debug\thecrimsbeta.pdb
